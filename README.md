@@ -6,7 +6,7 @@
 
 This repository contains an n8n workflow designed to automate the job application process. The workflow scrapes job listings, extracts HR contacts, and facilitates easy applications via an AI-integrated system.
 
-# Features
+# Features (Tentative)
 
 Job Scraping: Extracts job postings from LinkedIn based on user-defined filters (role, location, etc..).
 

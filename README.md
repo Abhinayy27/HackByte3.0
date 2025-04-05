@@ -57,8 +57,8 @@ Career coaches helping clients scale outreach without burnout.
 
 
 
-By Team 9749
-Harshith G, Kesav M, ABhinay B, Pardhesh M
+By Team 9749 - 
+Harshith G, Kesav M, Abhinay B, Pardhesh M
 
 
 

@@ -1,4 +1,4 @@
-# Job Application Assistant - n8n Workflow
+# Vibe Apply - A Job Application Assistant 
 # Why We Built This
 Job hunting in 2025 still feels like it’s stuck in 2010. Open 20 tabs, refresh job boards, copy-paste the same cold email, hope it lands somewhere other than a recruiter’s trash. It’s exhausting, repetitive, and wildly inefficient.
 

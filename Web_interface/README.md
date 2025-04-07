@@ -26,7 +26,8 @@ A modern React-based web application that serves as a frontend to an n8n job sea
 npm install
 ```
 
-## Running the Application
+## Running the Application 
+The workflow is currently inactive, wont run on any machine
 
 Start the development server:
 

@@ -59,8 +59,7 @@ You can find out more about this project in - https://devfolio.co/projects/vibe-
 
 
 
-By Team 9749 - 
-Harshith G, Kesav M, Abhinay B, Pardhesh M
+
 
 
 

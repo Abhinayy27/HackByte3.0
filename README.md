@@ -57,7 +57,7 @@ Career coaches helping clients scale outreach without burnout.
 
 You can find out more about this project in - https://devfolio.co/projects/vibe-apply-c25f
 
-want this automation workflow for free? dm me on my mail:)
+want this automation workflow for free? dm me on my mail :)
 
 
 

@@ -24,7 +24,7 @@ Just give us a one-line prompt like:
 
 "Marketing Manager, Remote"
 
-And we’ll handle the rest—literally.
+And we’ll handle the rest.
 
 Scrapes jobs from platforms like LinkedIn, compiles them into a clean, deduplicated dataset (title, company, location, and
 links).
@@ -45,7 +45,7 @@ AI does your talking. Personalized cold emails that don’t sound like they were
 
 Automated outreach. Recruiters get pinged without you lifting a finger.
 
-Live job tracker. A Google Sheet with everything you need — no guesswork, no confusion.
+Live job tracker. A Google Sheet with everything you need; no guesswork, no confusion.
 
 # Who's It For?
 
@@ -55,7 +55,7 @@ Career switchers who need to hit volume fast.
 
 Career coaches helping clients scale outreach without burnout.
 
-You can find out more about this project in - https://devfolio.co/projects/vibe-apply-c25f
+You can find out more about this project in  https://devfolio.co/projects/vibe-apply-c25f
 
 want this automation workflow for free? dm me on my mail :)
 
